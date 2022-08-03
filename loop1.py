@@ -20,3 +20,5 @@ for i in range(side):
     left(180/6)    
 end_fill('blue')
 mainloop()
+
+mainloop()

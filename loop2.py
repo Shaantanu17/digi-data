@@ -1,6 +1,6 @@
 from turtle import *
 
-Value=500
+Value=00
 
 start = 100 
 while start > 0:
