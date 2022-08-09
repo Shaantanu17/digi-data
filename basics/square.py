@@ -9,7 +9,7 @@ begin_fill()
 
 for i in range(200):
     fd(i)
-    lt(90)
+    lt(91)
 
-    end_fill()
-    mainloop()
+end_fill()
+mainloop()
